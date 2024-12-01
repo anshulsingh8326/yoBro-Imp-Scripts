@@ -5,6 +5,8 @@ created: 2024-12-01 16:17:09Z
 
 ---
 
+**- By Anshul Singh**
+
 - There’s 2 Script : 1. [***ScrollRect_Faster_Editor***](#h_1987843363221733070628997 "ScrollRect_Faster_Editor")
 
 &nbsp;                                 2. [***ScrollRect_Faster***](#h_2043193882691733070604094 "ScrollRect_Faster")
