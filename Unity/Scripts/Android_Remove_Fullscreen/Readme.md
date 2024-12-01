@@ -2,8 +2,8 @@ By Anshul Singh :
 
 # You Need Two Scripts: **ApplicationChrome.cs** and **ScreenSize.cs**
 
-1. **Create a Script Called `ApplicationChrome.cs`**  
-   Add the necessary code to this script.  
+1. **Download The Scripts :  `ApplicationChrome.cs`**  
+   Add the necessary code to this script ( Download the Script ).  
 
 2. **Call the `ApplicationChrome.cs` Script**  
    Use the desired function from `ApplicationChrome.cs` in another script named **`ScreenSize.cs`**.  
